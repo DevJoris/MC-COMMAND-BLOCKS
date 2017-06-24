@@ -7,4 +7,3 @@
 - You can make this visible by this command:  
 - /scoreboard objectives setdisplay sidebar {the name of your scoreboard}      
 
-![](img.png)
