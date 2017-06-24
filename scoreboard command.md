@@ -1,2 +1,2 @@
-*How to use /scoreboard command*
+**How to use *scoreboard* command**
 
