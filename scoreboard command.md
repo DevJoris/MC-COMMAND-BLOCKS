@@ -11,6 +11,6 @@
 
 Now you have add the player and set the score to 1
 
-![This is how it look likes](Schermafbeelding 2017-06-24 om 13.08.42.png)
+![GitHub Logo]()
 
   
