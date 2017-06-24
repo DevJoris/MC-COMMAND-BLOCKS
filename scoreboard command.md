@@ -6,4 +6,11 @@
 - You now have a scoreboard, but you can't see it.  
 - You can make this visible by this command:  
 - /scoreboard objectives setdisplay sidebar {the name of your scoreboard}      
+- After that do this
+-/scoreboard players add {playername} 1  
 
+Now you have add the player and set the score to 1
+
+![This is how it look likes]()
+
+  
